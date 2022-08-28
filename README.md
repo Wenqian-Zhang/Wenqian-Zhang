@@ -10,6 +10,6 @@ I am a senior student from Xi'an Jiaotong University, currently looking for Mphi
 
 ### Links
 - Personal Pages: https://Wenqian-Zhang.github.io
-- Google Scholar: https://scholar.google.com/citations?user=M2-UAYUAAAAJ&hl=en
+- Google Scholar: https://scholar.google.com/citations?user=M2-UAYUAAAAJ
 - curriculum vitae: https://Wenqian-Zhang.github.io/CV_Wenqian_Zhang.pdf
 
