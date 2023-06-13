@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am a senior student from Xi'an Jiaotong University, currently looking for Mphi or Ph.D. program of computer science in 2023 Fall.
+I am a senior student from Xi'an Jiaotong University.
 
 ### Research Interest
 - Natural Language Processing
