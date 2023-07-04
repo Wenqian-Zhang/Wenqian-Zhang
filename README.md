@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am a senior student from Xi'an Jiaotong University.
+I am a Mphil student at University of Manchester.
 
 ### Research Interest
 - Natural Language Processing
